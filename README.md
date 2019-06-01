@@ -45,3 +45,5 @@ python 3.7을 제외한 버전에서
 
 
 이제 모든 준비가 끝났고 소스코드를 가상 환경 안에서 실행시키면 된다.
+
+[![Video Label](http://img.youtube.com/vi/pao8x8KfCzQ/0.jpg)](https://youtu.be/pao8x8KfCzQ?t=0s)
